@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "cardea",
+    "slug": "cardea",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": [
+      "expo-asset"
+    ],
+    "android": {
+      "package": "bib.cardea"
+    },
+    "ios": {
+      "bundleIdentifier": "Bib.Cardea"
+    }
+  }
+}
