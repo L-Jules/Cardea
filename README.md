@@ -1,3 +1,12 @@
+## Présentation
+
+L'application enregistre les ids via NFC ou manuellement, ensuite elle peut génèrer un fichier CSV de sa base de donnée.
+
+<div style="flex-direction: row">
+    <img src="./rsrc/img/show-case/Screenshot_input_id_valid.jpg"   style="width: 40%">
+    <img src="./rsrc/img/show-case/Screenshot_input_id_invalid.jpg" style="width: 40%">
+</div>
+
 ## Vocabulaire
 
 ## Choix technique
